@@ -1,4 +1,4 @@
-# Flame Simulator
+# Flame Simulation
 A simplified particle system simulator to replicate the physics of a flame. Allows for interactions by utilizing sliders to adjust values in real time. 
 
 This project was made as Sharon Leo's final project in UC Irvine, CS114: Projects in Advanced 3D Computer Graphics, taught by Professor Shuang Zhao. 
@@ -18,7 +18,7 @@ This project was made as Sharon Leo's final project in UC Irvine, CS114: Project
     ```
 - Navigate to the repository
     ```python
-    cd flame-simulator
+    cd flame-simulation
     ```
 - Install needed packages
     ```python
